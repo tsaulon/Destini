@@ -88,10 +88,6 @@ class ViewController: UIViewController {
                 updateUI(storyText: story6)
                 promptRestart()
             }
-            else
-            {
-                reset()
-            }
         }
         else if tag == 2
         {
